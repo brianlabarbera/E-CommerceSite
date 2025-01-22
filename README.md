@@ -1,4 +1,4 @@
-# CSC430Midterm
+# E-Commerce Site
 
 # 📄 API Routes and Middleware Explained
 
