@@ -1,0 +1,26 @@
+[
+    {
+        "categoryid": 9,
+        "categoryname": "Burgers"
+    },
+    {
+        "categoryid": 10,
+        "categoryname": "Hot Dogs"
+    },
+    {
+        "categoryid": 11,
+        "categoryname": "Sandwiches"
+    },
+    {
+        "categoryid": 12,
+        "categoryname": "Fries & Sides"
+    },
+    {
+        "categoryid": 13,
+        "categoryname": "Drinks"
+    },
+    {
+        "categoryid": 14,
+        "categoryname": "Shakes"
+    }
+]
